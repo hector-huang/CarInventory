@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D31CF7C-CB63-410B-BD7C-A7825A8241E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B4F50FA-2E68-4959-93D3-E14947609943"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/View/CarRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAEF9DBB-09A0-4B97-B5CD-C8ADF3323C35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "decode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAEF9DBB-09A0-4B97-B5CD-C8ADF3323C35 - 43781ba01aed4aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Error) -&gt; CarInventory.CarError in CarInventory.ApiManager.(decode in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(Foundation.Data) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "BAEF9DBB-09A0-4B97-B5CD-C8ADF3323C35 - 3832d38b0310f722"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Error) -&gt; CarInventoryTests.CarError in CarInventoryTests.ApiManager.(decode in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(Foundation.Data) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "872B2DDA-5000-4D2F-A2BD-CB83967A8814"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/View/CarDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "872B2DDA-5000-4D2F-A2BD-CB83967A8814 - de40805da95ea460"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarInventory.CarDetailsView.init(viewModel: CarInventory.CarDetailsViewModel) -&gt; CarInventory.CarDetailsView"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/View/CarDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "872B2DDA-5000-4D2F-A2BD-CB83967A8814 - 3deafe3d8cc80103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarInventoryTests.CarDetailsView.init(viewModel: CarInventoryTests.CarDetailsViewModel) -&gt; CarInventoryTests.CarDetailsView"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/View/CarDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1850A73-7C04-4958-BD79-BC3C16AF8F66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/View/ImageSlider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A1850A73-7C04-4958-BD79-BC3C16AF8F66 - 6efc89838e513a41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, Swift.Optional&lt;Foundation.URL&gt;, SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt;&gt; in CarInventory.ImageSlider.body.getter : some"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/View/ImageSlider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "A1850A73-7C04-4958-BD79-BC3C16AF8F66 - 86c5046be6d157ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, Swift.Optional&lt;Foundation.URL&gt;, SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, Swift.Optional&lt;Foundation.URL&gt;, SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt;&gt; in CarInventory.ImageSlider.body.getter : some"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/View/ImageSlider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "A1850A73-7C04-4958-BD79-BC3C16AF8F66 - 4421d267506dddd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, Swift.Optional&lt;Foundation.URL&gt;, SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt;&gt; in CarInventoryTests.ImageSlider.body.getter : some"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/View/ImageSlider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "A1850A73-7C04-4958-BD79-BC3C16AF8F66 - 2699dea4e6954556"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, Swift.Optional&lt;Foundation.URL&gt;, SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, Swift.Optional&lt;Foundation.URL&gt;, SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt;&gt; in CarInventoryTests.ImageSlider.body.getter : some"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/View/ImageSlider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE5CF19B-9397-4E3D-B642-64686833C574"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE5CF19B-9397-4E3D-B642-64686833C574 - c2537252be5d032d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "FE5CF19B-9397-4E3D-B642-64686833C574 - f3af823be489bb93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4AAF886-C97C-4387-B17D-957A2E89AB3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4AAF886-C97C-4387-B17D-957A2E89AB3B - c2537252be5d032d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "D4AAF886-C97C-4387-B17D-957A2E89AB3B - f3af823be489bb93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94699A9F-9A3D-4414-9B51-9A8C98CED2A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94699A9F-9A3D-4414-9B51-9A8C98CED2A3 - a2aa793781ba2dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventory.CarError&gt;) -&gt; () in CarInventory.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "477">
+               </Location>
+               <Location
+                  uuid = "94699A9F-9A3D-4414-9B51-9A8C98CED2A3 - f9a9be00fe59a39b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventoryTests.CarError&gt;) -&gt; () in CarInventoryTests.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "477">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E4BF672-460B-4217-ADF0-F422D3798A10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E4BF672-460B-4217-ADF0-F422D3798A10 - 6a4ccacc3d359576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; CarInventory.CarError in CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "1E4BF672-460B-4217-ADF0-F422D3798A10 - 84d680dc000caa13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; CarInventoryTests.CarError in CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "334">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26B0E869-766B-4687-B5C5-7C096D332745"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26B0E869-766B-4687-B5C5-7C096D332745 - 6a4ccacc3d359576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; CarInventory.CarError in CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "26B0E869-766B-4687-B5C5-7C096D332745 - 84d680dc000caa13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; CarInventoryTests.CarError in CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "334">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3AFD16E-F95B-467D-BE76-90CAA482114A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3AFD16E-F95B-467D-BE76-90CAA482114A - cb5024367ae85f68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2728">
+               </Location>
+               <Location
+                  uuid = "F3AFD16E-F95B-467D-BE76-90CAA482114A - 4842b2807ac488d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "2728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4F9FF02-E537-4F2F-B20D-9DD7BAA8EA9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4F9FF02-E537-4F2F-B20D-9DD7BAA8EA9D - bc8fb7a31ed1dcf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Data) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt; in CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "F4F9FF02-E537-4F2F-B20D-9DD7BAA8EA9D - a55e5e5f68f76724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Data) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt; in CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D90BA254-E203-4F7F-99F1-5204DC9DA4AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D90BA254-E203-4F7F-99F1-5204DC9DA4AA - a2aa793781ba2dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventory.CarError&gt;) -&gt; () in CarInventory.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "D90BA254-E203-4F7F-99F1-5204DC9DA4AA - f9a9be00fe59a39b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventoryTests.CarError&gt;) -&gt; () in CarInventoryTests.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E291ADA4-9AB9-4F75-AC4F-6545937F6645"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E291ADA4-9AB9-4F75-AC4F-6545937F6645 - c01803a5d9ba60b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;CarInventory.CarCellViewModel&gt;) -&gt; () in CarInventory.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "115">
+               </Location>
+               <Location
+                  uuid = "E291ADA4-9AB9-4F75-AC4F-6545937F6645 - 4656b49268760145"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;CarInventoryTests.CarCellViewModel&gt;) -&gt; () in CarInventoryTests.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BFAF5CB-CA9B-4C6C-88C6-AC97727A5BAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetch(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BFAF5CB-CA9B-4C6C-88C6-AC97727A5BAF - c2537252be5d032d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CarInventory.ApiManager.(fetch in _A6281A060635FA75EC7EAC0005497E72)&lt;A where A: Swift.Decodable&gt;(with: CarInventory.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventory.CarError&gt;"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "301">
+               </Location>
+               <Location
+                  uuid = "9BFAF5CB-CA9B-4C6C-88C6-AC97727A5BAF - f3af823be489bb93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in CarInventoryTests.ApiManager.(fetch in _A2DA31A3F774901756DEF45754E1E16C)&lt;A where A: Swift.Decodable&gt;(with: CarInventoryTests.Path) -&gt; Combine.AnyPublisher&lt;A, CarInventoryTests.CarError&gt;"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "301">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F75A036F-0E83-4A70-AA2E-DC43D1A598C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventoryTests/URLProtocolMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0B61F87-1172-4387-8689-C9AD8BA45F53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventoryTests/URLProtocolMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1664B4E-2BB2-4B9E-A94B-AA9CB36B6F9A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventoryTests/URLProtocolMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3AF01F2-928F-47F1-A9A2-396E9C2FAC87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventoryTests/URLProtocolMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1029B38D-D5B4-475E-BBED-EF19F76EE66F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventoryTests/URLProtocolMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "startLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D926CC5-3364-41E2-BA5F-BCEFDF071CF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D926CC5-3364-41E2-BA5F-BCEFDF071CF0 - a2aa793781ba2dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventory.CarError&gt;) -&gt; () in CarInventory.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "653">
+               </Location>
+               <Location
+                  uuid = "9D926CC5-3364-41E2-BA5F-BCEFDF071CF0 - f9a9be00fe59a39b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventoryTests.CarError&gt;) -&gt; () in CarInventoryTests.CarListViewModel.fetchList() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "653">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF0C6207-7C11-48DE-95AA-8583C437860B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF0C6207-7C11-48DE-95AA-8583C437860B - 17bf1a3f4ac52031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CarInventory.CarDetailsResponse) -&gt; CarInventory.CarDetailsCellViewModel in CarInventory.CarDetailsViewModel.refresh() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "BF0C6207-7C11-48DE-95AA-8583C437860B - 9598155a7c05dd9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CarInventoryTests.CarDetailsResponse) -&gt; CarInventoryTests.CarDetailsCellViewModel in CarInventoryTests.CarDetailsViewModel.refresh() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A9B777F-1DE4-4184-B61D-72BA8F501AC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A9B777F-1DE4-4184-B61D-72BA8F501AC4 - d913685fd2302ec3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventory.CarError&gt;) -&gt; () in CarInventory.CarDetailsViewModel.refresh() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "0A9B777F-1DE4-4184-B61D-72BA8F501AC4 - 1fb95486bf1fde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;CarInventoryTests.CarError&gt;) -&gt; () in CarInventoryTests.CarDetailsViewModel.refresh() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "257B5AD4-977C-47BD-9D52-9787929FA996"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarInventory/ViewModel/CarDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "257B5AD4-977C-47BD-9D52-9787929FA996 - a93225c68459ad2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (CarInventory.CarDetailsCellViewModel) -&gt; () in CarInventory.CarDetailsViewModel.refresh() -&gt; ()"
+                  moduleName = "CarInventory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "257B5AD4-977C-47BD-9D52-9787929FA996 - a94d4eb2f9862ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (CarInventoryTests.CarDetailsCellViewModel) -&gt; () in CarInventoryTests.CarDetailsViewModel.refresh() -&gt; ()"
+                  moduleName = "CarInventoryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hector.huang/Projects/CarInventory/CarInventory/CarInventory/ViewModel/CarDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
